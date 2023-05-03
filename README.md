@@ -3,6 +3,7 @@
 # Fraction
 A class named Fraction represents a fraction of two integers.
 
+The task:
 * The + operator to add two fractions and return their sum as another fraction in reduced form.
 * The - operator to subtract two fractions and return their difference as another fraction in reduced form.
 * The * operator to multiply two fractions and return their product as another fraction in reduced form.
